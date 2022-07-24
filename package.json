@@ -1,0 +1,15 @@
+{
+  "name": "pokescrapper",
+  "version": "1.0.0",
+  "description": "Coletar dados de todos os pokemons com webscrapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phelipe Macel Rios dos Santos",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^20.0.0",
+    "request": "^2.88.2"
+  }
+}
